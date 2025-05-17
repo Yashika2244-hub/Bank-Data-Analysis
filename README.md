@@ -1,4 +1,4 @@
-🏦 Banking Transaction & Performance Analysis
+🏦 Banking Transaction & Performance Analysis - 
 An end-to-end Banking Data Analytics project built using MySQL, Python, and Power BI, covering 3 years of financial data across 34 branches and 195 customer accounts. The project highlights key business insights, transaction behaviors, and performance trends using SQL queries, Python data analysis, and dynamic dashboards in Power BI.
 
 📁 Project Structure
