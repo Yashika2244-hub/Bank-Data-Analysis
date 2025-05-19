@@ -1,5 +1,3 @@
-# Practice
-
 use bank_data;
 select * from  transactions;
 select * from branches;
